@@ -8,7 +8,7 @@
 |                     Home Screen                   |                    Voice Search                   |                       Rewardz                     |
 |:-------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|
 | <img width="1604" src="./readme/screenshot1.jpg"> | <img width="1604" src="./readme/screenshot2.jpg"> | <img width="1604" src="./readme/screenshot3.jpg"> |
-| <img width="1604" src="./readme/screenshot4.jpg"> | <img width="1604" src="./readme/screenshot5.jpg"> | <img width="1604" src="./readme/screenshot6.jpg"> |
+| <img width="1604" src="./readme/screenshot4.jpg"> | <img width="1604" src="./readme/screenshot5.jpg"> |  
 |                    **App Drawer**                 |                 **Search Language**               |                     **Settings**                  |
 
 ## :rocket: Get Up and Running in 5 Minutes
